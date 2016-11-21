@@ -1,17 +1,11 @@
 # Anagrams
-Version 0.0.0: September 7, 2016
-
-by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Brian Dutz](https://github.com/AIMWORLD213445)
+Version 0.0.0: September 7, 2016 by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Brian Dutz](https://github.com/AIMWORLD213445)
 
 ## Description
 A program to find out if words are anagrams
 
-### Specifications
-| Behavior                                       | Input    | Output |
-|------------------------------------------------|----------|--------|
-| Compare two words and confirm the same elements| cat, act | true   |
-| Return multiple anagrams from a list of words  |          |        |
-|                                                |          |        |
+## Technologies Used
+Java, Gradle, JUnit
 
 ## Setup/Installation
 * Clone directory
@@ -22,11 +16,15 @@ A program to find out if words are anagrams
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
+## Specifications
+| Behavior                                       | Input    | Output |
+|------------------------------------------------|----------|--------|
+| Compare two words and confirm the same elements| cat, act | true   |
+| Return multiple anagrams from a list of words  |          |        |
+|                                                |          |        |
+
 ## Known Issues
 * This program runs only from the command line
-
-## Technologies Used
-Java, Gradle, junit
 
 ## Legal
 *Licensed under the GNU General Public License v3.0*
